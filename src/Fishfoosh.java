@@ -10,4 +10,5 @@ public class Fishfoosh {
         this.foosh = foosh;
     }
     //HEJ JAG EXISTERAR
+    //How do you know?
 }
