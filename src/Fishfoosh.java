@@ -9,4 +9,5 @@ public class Fishfoosh {
         this.fish = fish;
         this.foosh = foosh;
     }
+    //HEJ JAG EXISTERAR
 }
